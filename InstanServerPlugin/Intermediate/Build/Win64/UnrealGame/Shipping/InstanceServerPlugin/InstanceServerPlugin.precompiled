@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\InstanceServerPlugin\\Module.InstanceServerPlugin.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\InstanceServerPlugin\\InstanceServerPlugin.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\InstanceServerPlugin\\InstanceServerPluginBPLibrary.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\InstanceServerPlugin\\InstanceServerSubsystem.cpp.obj"
+	]
+}
