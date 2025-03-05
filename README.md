@@ -16,4 +16,5 @@ To request the lobby, use SendMapData.
 To get information about the queue and the created lobby, use the QueueUpdateDelegate and NewServerUpdateDelegate delegates.
 ![image](https://github.com/user-attachments/assets/fd6eb6fb-2e78-4c43-9d36-304fa5bae347)
 ![image](https://github.com/user-attachments/assets/013ccf08-315f-480b-873c-51f4ebc1d175)
+
 You can find examples in the plugin's Content Folder.
