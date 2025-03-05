@@ -1,8 +1,0 @@
-{
-	"OutputFiles": [
-		"..\\..\\..\\x64\\UnrealGame\\Development\\InstanceServerPlugin\\Module.InstanceServerPlugin.cpp.obj",
-		"..\\..\\..\\x64\\UnrealGame\\Development\\InstanceServerPlugin\\InstanceServerPlugin.cpp.obj",
-		"..\\..\\..\\x64\\UnrealGame\\Development\\InstanceServerPlugin\\InstanceServerPluginBPLibrary.cpp.obj",
-		"..\\..\\..\\x64\\UnrealGame\\Development\\InstanceServerPlugin\\InstanceServerSubsystem.cpp.obj"
-	]
-}
